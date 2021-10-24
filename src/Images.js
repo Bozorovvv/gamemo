@@ -17,7 +17,7 @@ import img16 from './images/rabbit.png'
 import img17 from './images/tiger.png'
 import img18 from './images/wolf.png'
 
-export default [
+const Images = [
   img1,
   img2,
   img3,
@@ -36,4 +36,5 @@ export default [
   img16,
   img17,
   img18,
-];
+]
+export default Images
